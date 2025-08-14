@@ -20,3 +20,9 @@ Projeto curto para modelar e mapear, com JPA/Hibernate, o domínio de um **event
 ## Instância de dados (seed)
 ![Instância de dados do desafio](docs/img/instancia-dados.jpg)
 *Conjunto de registros de exemplo e como se relacionam.*
+
+## Tecnologias utilizadas
+- **Java 21**
+- **Spring Boot 3.5.4**
+- **H2 Database**
+- **Maven**
